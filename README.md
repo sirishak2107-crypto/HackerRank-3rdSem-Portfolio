@@ -134,3 +134,25 @@ HackerRank-3rdSem-Portfolio/
 ### HackerRank Badges
 
 ![HackerRank Badges](hackerrank-badges.png)
+
+# HackerRank
+
+## About
+This repository contains my HackerRank programming practice and solutions.
+
+## Topics Practised
+- Problem Solving
+- C Programming
+- Python Programming
+- Algorithms
+- Data Structures
+
+## Purpose
+I use HackerRank to practise programming problems, improve my logical thinking, and strengthen my understanding of algorithms and problem solving.
+
+## Languages
+- C
+- Python
+
+## Progress
+I am continuously practising problems and adding solutions to improve my programming skills.
